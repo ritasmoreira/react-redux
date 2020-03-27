@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "title": "Hello",
+      "description": "uwu",
+      "id": 1
+    },
+    {
+      "title": "Uaaau",
+      "description": "This is the description",
+      "id": 2
+    },
+    {
+      "title": "New Stream",
+      "description": "This was made by me",
+      "id": 3
+    },
+    {
+      "title": "Id Stream",
+      "description": "This should have the id",
+      "id": 4
+    },
+    {
+      "title": "Programmatic Navigation!!!",
+      "description": "You should not see this on the form page!!",
+      "id": 6
+    }
+  ]
+}
